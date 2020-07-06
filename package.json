@@ -18,5 +18,8 @@
   "homepage": "https://github.com/YusukeD/discord-t2s-bot#readme",
   "dependencies": {
     "discord.js": "^12.2.0"
+  },
+  "devDependencies": {
+    "node-dev": "^4.3.0"
   }
 }
